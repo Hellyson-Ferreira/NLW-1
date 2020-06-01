@@ -12,9 +12,14 @@ O NLW é uma semana prática com muito código, desafios, networking e um ú
 Através do nosso método você vai aprender novas ferramentas, conhecer novas tecnologias e descobrir hacks que vão impulsionar a sua carreira.
 
 Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo na sua evolução como dev.
-## 💻 Project
+## 💻 Project  
+
+
 Ecoleta is a project developed based on international environment week. 
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+
+:wave: [CLick para ver o projeto!](https://hellyson-ferreira.github.io/NLW-1/)
+
 
 ## :memo: License
 
