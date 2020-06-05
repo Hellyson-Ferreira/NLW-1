@@ -22,18 +22,8 @@
     }
 }
 
-@media(max-width:1700px){
-    #page-home {
-        background-position-x: 40vw;
-    }
 
-}
-@media(max-width:3100px){
-    #page-home {
-        background-position-x: 50vw;
-    }
 
-}
 @media(max-height:760){
     #page-home {
         background-position-y: 200px;

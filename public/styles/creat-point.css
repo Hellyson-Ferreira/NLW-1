@@ -57,11 +57,21 @@ form fieldset{
 form fieldset legend{
     margin-bottom: 40px;
 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+
 }
 
 form fieldset legend h2{
     font-size: 24px;
     
+}
+form fieldset legend span{
+    font-size: 14px;
+    color: var(--title-color);
 }
 form .field{
     flex: 1;

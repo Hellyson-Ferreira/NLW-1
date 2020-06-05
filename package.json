@@ -1,0 +1,27 @@
+{
+  "name": "NLW-1",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">     <img alt=\"NextLevelWeek\" title=\"#NextLevelWeek\" src=\"img/logo.svg\" width=\"250px\" /> </h1>",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hellyson-Ferreira/NLW-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hellyson-Ferreira/NLW-1/issues"
+  },
+  "homepage": "https://github.com/Hellyson-Ferreira/NLW-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
