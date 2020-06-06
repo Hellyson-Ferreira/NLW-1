@@ -22,9 +22,9 @@ Estamos desenvolvendo um site para cadastro de pontos de coleta de material reci
 ### Imagens do projeto
 <div align="center">	
 	
-<img width="700" src="public/img/home.png" alt="Home">
-<img width="700" src="public/img/create-point.png" alt="Home">
-<img width="700" src="public/img/seach-results.png" alt="Home">
+<img width="800" src="public/img/home.png" alt="Home">
+<img width="800" src="public/img/create-point.png" alt="Home">
+<img width="800" src="public/img/seach-results.png" alt="Home">
 
 </div>
 
