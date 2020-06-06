@@ -19,14 +19,15 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
 O projeto está sendo desenvolvido durante a semana do meio ambiente (01/05/2020 - 05/05/2020) e o tema do projeto é ecologia. 
 Estamos desenvolvendo um site para cadastro de pontos de coleta de material reciclável e buscar pontos de coleta.
 
+
+### Imagesn do projeto
+		
+<img width="700" src="public/img/home.png" alt="Home">
+<img width="700" src="public/img/create-point.png" alt="Home">
+<img width="700" src="public/img/seach-results.png" alt="Home">
+
+
 ## Tecnologias
-
-<img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs10.postimg.cc%2Fzadopghid%2Fhtml5.png&f=1&nofb=1"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fianlunn.co.uk%2Fwp-content%2Fuploads%2Fcss3.png&f=1&nofb=1"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fxabikos.gallerycdn.vsassets.io%2Fextensions%2Fxabikos%2Fjavascriptsnippets%2F1.7.2%2F1545658667284%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1"><img width="80" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fnunjucks.png&f=1&nofb=1">
-
-
-<img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tipstoremember.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fnodejs_logo.png&f=1&nofb=1"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F13700%2F35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png&f=1&nofb=1"><img width="80" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FSQLite370.svg%2F1200px-SQLite370.svg.png&f=1&nofb=1">
-
-
 
 #### Front-end:
 
@@ -46,7 +47,7 @@ Estamos desenvolvendo um site para cadastro de pontos de coleta de material reci
 
 - [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
 
-## Uso
+## :rocket:Uso
 
 #### Instalar dependencias:
 _com **npm**_
