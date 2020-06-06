@@ -19,15 +19,13 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
 O projeto está sendo desenvolvido durante a semana do meio ambiente (01/05/2020 - 05/05/2020) e o tema do projeto é ecologia. 
 Estamos desenvolvendo um site para cadastro de pontos de coleta de material reciclável e buscar pontos de coleta.
 
-
-### Imagesn do projeto
+### Imagens do projeto
 		
 <img width="700" src="public/img/home.png" alt="Home">
 <img width="700" src="public/img/create-point.png" alt="Home">
 <img width="700" src="public/img/seach-results.png" alt="Home">
 
-
-## Tecnologias
+## 🤖 Tecnologias
 
 #### Front-end:
 
